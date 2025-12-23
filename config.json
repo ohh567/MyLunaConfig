@@ -1,25 +1,25 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "yqs": {
-      "name": "🎬影奇森(4K原画专线)",
-      "api": "https://ggbox.de5.net/?url=https://api.yqshijue.com/api.php/provide/vod",
-      "detail": "https://www.yqshijue.com"
+    "lzzy.com": {
+      "name": "💎量子资源(2025全能4K)",
+      "api": "https://ggbox.de5.net/?url=https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://lzizy.net"
     },
-    "bjzy": {
-      "name": "🎬倍速资源(大厂/超清)",
-      "api": "https://ggbox.de5.net/?url=https://api.beisuzy.com/api.php/provide/vod",
-      "detail": "https://www.beisuzy.com"
+    "fszy.com": {
+      "name": "🚀极速风尚(蓝光/无广)",
+      "api": "https://ggbox.de5.net/?url=https://api.fszyapi.com/api.php/provide/vod",
+      "detail": "https://www.fszy.com"
     },
-    "mizhi": {
-      "name": "🎬蜜汁资源(蓝光/纯净)",
-      "api": "https://ggbox.de5.net/?url=https://api.mizhiapi.com/api.php/provide/vod",
-      "detail": "https://www.mizhizy.com"
+    "kczy.com": {
+      "name": "🎬快车专线(画质极佳)",
+      "api": "https://ggbox.de5.net/?url=https://api.kczyapi.com/api.php/provide/vod",
+      "detail": "https://www.kczyapi.com"
     },
-    "tiankong": {
-      "name": "🎬天空资源(4K/不卡顿)",
-      "api": "https://ggbox.de5.net/?url=https://api.tiankongapi.com/api.php/provide/vod",
-      "detail": "https://www.tiankongzy.com"
+    "wujin.me": {
+      "name": "💎无尽资源(官方4K专线)",
+      "api": "https://ggbox.de5.net/?url=https://api.wujinapi.me/api.php/provide/vod",
+      "detail": "https://www.wujinzy.com"
     }
   }
 }
