@@ -16,10 +16,15 @@
       "api": "https://ggbox.de5.net/?url=https://caiji.moduapi.cc/api.php/provide/vod",
       "detail": "https://www.moduzy.net"
     },
-    "yinghua": {
-      "name": "🌸樱花动漫(最全/老番)",
-      "api": "https://ggbox.de5.net/?url=https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "detail": "http://www.yhzy.cc"
+    "guangsu": {
+      "name": "⚡光速资源(新番最快)",
+      "api": "https://ggbox.de5.net/?url=https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://www.guangsuzy.com"
+    },
+    "hhzy": {
+      "name": "🎬豪华资源(4K无广告)",
+      "api": "https://ggbox.de5.net/?url=https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://hhzyapi.com"
     },
     "xjzy": {
       "name": "🔞小鸡资源[R18]",
