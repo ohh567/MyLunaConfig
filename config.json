@@ -1,25 +1,25 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "lzzy.com": {
-      "name": "💎量子资源(2025全能4K)",
-      "api": "https://ggbox.de5.net/?url=https://cj.lziapi.com/api.php/provide/vod",
-      "detail": "https://lzizy.net"
+    "haiwa": {
+      "name": "🌊海外资源(全球CDN/秒开)",
+      "api": "https://ggbox.de5.net/?url=https://haiwaapi.com/api.php/provide/vod",
+      "detail": "https://haiwaapi.com"
     },
-    "fszy.com": {
-      "name": "🚀极速风尚(蓝光/无广)",
-      "api": "https://ggbox.de5.net/?url=https://api.fszyapi.com/api.php/provide/vod",
-      "detail": "https://www.fszy.com"
+    "ikun": {
+      "name": "🎬iKun资源(无水印专线)",
+      "api": "https://ggbox.de5.net/?url=https://ikunzyapi.com/api.php/provide/vod",
+      "detail": "https://ikunzy.com"
     },
-    "kczy.com": {
-      "name": "🎬快车专线(画质极佳)",
-      "api": "https://ggbox.de5.net/?url=https://api.kczyapi.com/api.php/provide/vod",
-      "detail": "https://www.kczyapi.com"
+    "subo": {
+      "name": "🚀速播资源(极速/不卡)",
+      "api": "https://ggbox.de5.net/?url=https://subocaiji.com/api.php/provide/vod",
+      "detail": "https://www.subozy.com"
     },
-    "wujin.me": {
-      "name": "💎无尽资源(官方4K专线)",
-      "api": "https://ggbox.de5.net/?url=https://api.wujinapi.me/api.php/provide/vod",
-      "detail": "https://www.wujinzy.com"
+    "1080zy": {
+      "name": "💎1080P库(真高清/大厂)",
+      "api": "https://ggbox.de5.net/?url=https://api.1080zyku.com/api.php/provide/vod",
+      "detail": "https://1080zyku.com"
     }
   }
 }
