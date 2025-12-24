@@ -1,50 +1,66 @@
-{
-  "cache_time": 7200,
-  "api_site": {
-    "uku": {
-      "name": "🎬U酷资源(秒播)",
-      "api": "https://ggbox.de5.net/?url=https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://ukzy.com"
-    },
-    "dbzy": {
-      "name": "🎬豆瓣资源(高清)",
-      "api": "https://ggbox.de5.net/?url=https://caiji.dbzy5.com/api.php/provide/vod",
-      "detail": "https://caiji.dbzy5.com"
-    },
-    "modu": {
-      "name": "⛩️魔都动漫(画质天花板)",
-      "api": "https://ggbox.de5.net/?url=https://caiji.moduapi.cc/api.php/provide/vod",
-      "detail": "https://www.moduzy.net"
-    },
-    "guangsu": {
-      "name": "⚡光速资源(新番最快)",
-      "api": "https://ggbox.de5.net/?url=https://api.guangsuapi.com/api.php/provide/vod",
-      "detail": "https://www.guangsuzy.com"
-    },
-    "hhzy": {
-      "name": "🎬豪华资源(4K无广告)",
-      "api": "https://ggbox.de5.net/?url=https://hhzyapi.com/api.php/provide/vod",
-      "detail": "https://hhzyapi.com"
-    },
-    "xjzy": {
-      "name": "🔞小鸡资源[R18]",
-      "api": "https://ggbox.de5.net/?url=https://api.xjzyapi.xyz/provide/vod",
-      "detail": "https://xjzy.com"
-    },
-    "ckzy": {
-      "name": "🔞CK百货[R18]",
-      "api": "https://ggbox.de5.net/?url=https://ckbh1.xyz/api.php/provide/vod",
-      "detail": "https://ckbh1.xyz"
-    },
-    "91zy": {
-      "name": "🔞91精品[R18]",
-      "api": "https://ggbox.de5.net/?url=https://91jpzyw.com/api.php/provide/vod",
-      "detail": "https://91jpzyw.com"
-    },
-    "yzzy": {
-      "name": "🚀优质资源(特殊)",
-      "api": "https://ggbox.de5.net/?url=https://api.yzzy-api.com/inc/apijson.php",
-      "detail": "https://api.yzzy-api.com"
-    }
+[
+  {
+    "id": "uku",
+    "name": "🎬 U酷资源 (秒播)",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "精选资源",
+    "priority": 10
+  },
+  {
+    "id": "dbzy",
+    "name": "🎬 豆瓣资源 (高清)",
+    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "group": "精选资源",
+    "priority": 9
+  },
+  {
+    "id": "modu",
+    "name": "⛩️ 魔都动漫 (画质天花板)",
+    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "group": "动漫专区",
+    "priority": 8
+  },
+  {
+    "id": "guangsu",
+    "name": "⚡ 光速资源 (新番最快)",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+    "group": "精选资源",
+    "priority": 7
+  },
+  {
+    "id": "hhzy",
+    "name": "🎬 豪华资源 (4K无广告)",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+    "group": "精选资源",
+    "priority": 6
+  },
+  {
+    "id": "xjzy",
+    "name": "🔞 小鸡资源 [R18]",
+    "baseUrl": "https://api.xjzyapi.xyz/provide/vod",
+    "group": "adult",
+    "enabled": true
+  },
+  {
+    "id": "ckzy",
+    "name": "🔞 CK百货 [R18]",
+    "baseUrl": "https://ckbh1.xyz/api.php/provide/vod",
+    "group": "adult",
+    "enabled": true
+  },
+  {
+    "id": "91zy",
+    "name": "🔞 91精品 [R18]",
+    "baseUrl": "https://91jpzyw.com/api.php/provide/vod",
+    "group": "adult",
+    "enabled": true
+  },
+  {
+    "id": "yzzy",
+    "name": "🚀 优质资源 (特殊)",
+    "baseUrl": "https://api.yzzy-api.com/inc/apijson.php",
+    "group": "adult",
+    "enabled": true
   }
-}
+]
+
