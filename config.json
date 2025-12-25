@@ -3,36 +3,36 @@
     "id": "uku",
     "name": "🎬 U酷资源 (秒播)",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "精选资源",
-    "priority": 10
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "dbzy",
     "name": "🎬 豆瓣资源 (高清)",
     "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "group": "精选资源",
-    "priority": 9
+    "group": "normal",
+    "priority": 2
   },
   {
     "id": "modu",
     "name": "⛩️ 魔都动漫 (画质天花板)",
     "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
-    "group": "动漫专区",
-    "priority": 8
+    "group": "normal",
+    "priority": 3
   },
   {
     "id": "guangsu",
     "name": "⚡ 光速资源 (新番最快)",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
-    "group": "精选资源",
-    "priority": 7
+    "group": "normal",
+    "priority": 4
   },
   {
     "id": "hhzy",
     "name": "🎬 豪华资源 (4K无广告)",
     "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
-    "group": "精选资源",
-    "priority": 6
+    "group": "normal",
+    "priority": 5
   },
   {
     "id": "xjzy",
